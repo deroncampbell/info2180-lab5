@@ -51,7 +51,6 @@ header::before {
     padding: 10px 10px;
     border-radius: 5px 5px;
     border: 1px solid #E2E5E9;
-    /* box-shadow: 3px 3px 3px 0px black; */
 }
 
 #lookup {

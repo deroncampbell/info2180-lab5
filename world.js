@@ -3,7 +3,6 @@ document.getElementById("lookup").addEventListener("click", myFunction);
 function myFunction() {
     var hr = new XMLHttpRequest();
     var url = 'world.php?country=' + document.getElementById('country').value;
-    // var data = "searchtext=GGG123";
 
 
     hr.open('GET', url, true);
